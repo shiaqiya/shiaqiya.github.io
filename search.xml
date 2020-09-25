@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Coding域名解析</title>
+      <link href="2020/09/25/Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/"/>
+      <url>2020/09/25/Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/</url>
+      
+        <content type="html"><![CDATA[<p>Coding域名解析每3个月需要重新解析</p><a id="more"></a><p>阿里云：<a href="https://dns.console.aliyun.com/?spm=5176.71615.J_5602601440.2.6c4b5b8egoecOt#/dns/setting/codeaqi.top">https://dns.console.aliyun.com/?spm=5176.71615.J_5602601440.2.6c4b5b8egoecOt#/dns/setting/codeaqi.top</a></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185835141.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185835141.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185835141"></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185637610.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185637610.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185637610"></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185718209.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185718209.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185718209"></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185910712.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185910712.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185910712"></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185736974.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185736974.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185736974"></p><p><img src="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185755646.png" class="lazyload" data-srcset="Coding%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.assets/image-20200925185755646.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="image-20200925185755646"></p><p>Coding页面：<a href="https://aqiblog.coding.net/p/aqiblog/cd/website/static/setting/107721">https://aqiblog.coding.net/p/aqiblog/cd/website/static/setting/107721</a></p><p>首先关闭GitHub的境外解析与自定义域名。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类A </category>
+          
+          <category> 分类B </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Spring笔记</title>
       <link href="2020/09/22/Spring%E7%AC%94%E8%AE%B0/"/>
       <url>2020/09/22/Spring%E7%AC%94%E8%AE%B0/</url>
